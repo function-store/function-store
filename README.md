@@ -19,6 +19,7 @@ My work focuses on developing **tools, frameworks, and installations** that merg
 
 Active in the **TouchDesigner community** — contributing tools, sharing workflows, and collaborating with artists and brands.  
 Based in **Berlin**, available for **collaborations**, **custom tool development**, and **interactive installations** and much more!
+
 Co-founder of [DEREAL Studio](https://instagram.com/dereal.studio).
 
 ---
