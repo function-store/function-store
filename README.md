@@ -7,7 +7,7 @@ My work focuses on developing **tools, frameworks, and installations** that merg
 
 ### ⚙️ What I do
 
-- 🧩 **Tool Development:** Creator of [FunctionStore_tools](https://github.com/yourusername/FunctionStore_tools), an enhancement toolkit for TouchDesigner workflows.
+- 🧩 **Tool Development:** Creator of [FunctionStore_tools](https://github.com/function-store/FunctionStore_tools), an enhancement toolkit for TouchDesigner workflows.
   - Among many others you can find here on my [GitHub]([url](https://github.com/function-store?tab=repositories)) or my [Patreon](https://patreon.com/function_store)  
 - 💡 **System Design:** I build integrated real-time systems that synchronize motion, light, and sound — from **volumetric LED installations** to **interactive environments**.  
 - 🎛️ **TouchDesigner Expertise:** Deeply involved in TouchDesigner’s community-driven ecosystem; I develop modular systems, share techniques, and perform live.  
